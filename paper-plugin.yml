@@ -1,0 +1,4 @@
+name: DisableRespawnAnchorDamage
+version: 1.0
+main: me.example.disablerespawnanchor.DisableRespawnAnchorDamage
+api-version: "1.21"
